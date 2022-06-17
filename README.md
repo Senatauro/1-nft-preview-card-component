@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/as-described-nft-preview-card-component-1mJoZgVCpy)
+- Live Site URL: [Live](https://incandescent-biscuit-3633df.netlify.app/)
 
 ## My process
 
@@ -59,7 +59,7 @@ I'm not really confident about my CSS skills yet, this is something that I want 
 
 ## Author
 
-- Website - [Carlos Gabriel Silva Stedile](https://www.your-site.com)
+- Website - [Carlos Gabriel Silva Stedile](https://senatauro.github.io/)
 - Frontend Mentor - [@Senatauro](https://www.frontendmentor.io/profile/yourusername)
 
 
