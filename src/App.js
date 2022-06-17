@@ -9,7 +9,7 @@ function App() {
   return (
     <div className='container'>
       <div className="card-container">
-        <img className='card-image' src={nftImage} alt="nft-image" />
+        <img className='card-image' src={nftImage}/>
         <h1 className='card-title'>Equilibrium #3429</h1>
         <p className='card-desc'>Our Equilibrium collection promotes balance and calm.</p>
         <div className='card-info'>
@@ -18,14 +18,14 @@ function App() {
             <p>0.041 ETH</p>
           </div>
           <div className='card-info-time'>
-            <img src={nftTime} alt="nft-time" />
+            <img src={nftTime}/>
             <p>3 days left</p>
           </div>
         </div>
         <div className='card-footer'>
           <hr />
           <div className='card-footer-creator'>
-            <img src={nftCreator} alt="nft-creator" />
+            <img src={nftCreator}/>
             <p>Creation of <span>Jules Wyvern</span></p>
           </div>
         </div>
