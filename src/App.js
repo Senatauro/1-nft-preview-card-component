@@ -25,7 +25,7 @@ function App() {
         <div className='card-footer'>
           <hr />
           <div className='card-footer-creator'>
-            <img src={nftCreator} alt="Photo of the NFT creator" />
+            <img src={nftCreator} alt="The NFT creator" />
             <p>Creation of <span>Jules Wyvern</span></p>
           </div>
         </div>
