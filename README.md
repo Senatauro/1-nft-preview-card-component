@@ -60,7 +60,7 @@ I'm not really confident about my CSS skills yet, this is something that I want 
 ## Author
 
 - Website - [Carlos Gabriel Silva Stedile](https://senatauro.github.io/)
-- Frontend Mentor - [@Senatauro](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Senatauro](https://www.frontendmentor.io/profile/senatauro)
 
 
 ## Acknowledgments
